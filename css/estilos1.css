@@ -1,0 +1,67 @@
+*{
+    margin:0px;
+    padding:0%;
+
+}
+
+#general{
+    border: 1px solid #2ECC71;
+    border-radius: 200px;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+}
+
+
+
+#caja1{
+    border: 1px solid #2ECC71;
+    border-radius: 90px;
+    margin-top: 15px;
+    margin: left;
+    width: 100px;
+    height:100px;
+    background-color: powderblue;
+}
+
+#caja2{
+    border: 1px solid #2ECC71;
+    border-radius: 90px;
+    margin-top: 15px;
+    margin: auto;
+    float:left;
+    width: 150px;
+    height: 150px;
+    background-color: paleturquoise;
+}
+
+
+#caja3{
+    border: 1px solid #2ECC71;
+    border-radius: 90px;
+    margin: 15px;
+    width: 100px;
+    height: 100px;
+    background-color: mediumseagreen;
+    float: right;
+}
+#caja4{
+    border: 1px solid #2ECC71;
+    border-radius: 90px;
+    margin: 15px;
+    width: 150px;
+    height: 200px;
+    background-color: lightseagreen;
+    float: left;
+}
+#caja5{
+    border: 1px solid #2ECC71;
+    border-radius: 90px;
+    padding-left:100px;
+    margin: 15px;
+    float: right;
+    width: 150px;
+    height: 150px;
+    background-color: lightseagreen
+}
